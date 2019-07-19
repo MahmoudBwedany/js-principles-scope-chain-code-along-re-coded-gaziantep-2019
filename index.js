@@ -1,11 +1,20 @@
 /* Your code goes here */
 
-var customerName;
+customerName = "bob";
+
 const leastFavoriteCustomer = "Someone";
-function upperCaseCustomerName(customerName) {
-  customerName.toUpperCase();
+
+function upperCaseCustomerName() {
+  customerName = customerName.toUpperCase();
+
 }
 
+upperCaseCustomerName();
+
+console.log(customerName);
+
+
+/*
 function setBestCustomer() {
   bestCustomer = "not nob";
   
@@ -24,6 +33,7 @@ function changeLeastFavoriteCustomer() {
 
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = "something";
-  let favoriteCustomer = "Another delcaration"
+  let favoriteCustomer = "Another delca"
 
 }
+*/
