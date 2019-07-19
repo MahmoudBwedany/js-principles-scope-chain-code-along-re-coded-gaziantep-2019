@@ -29,12 +29,13 @@ function overWriteBestCustomer() {
 
 }
 
-/*
+
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = "Something else entirely"
   
 }
 
+/*
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = "something";
   let favoriteCustomer = "Another delca"
