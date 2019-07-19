@@ -37,6 +37,6 @@ function changeLeastFavoriteCustomer() {
 
 
 function attemptTwoFavoriteCustomers (){
-  
+  let
 }
 
