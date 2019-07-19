@@ -9,7 +9,7 @@ function upperCaseCustomerName() {
 
 }
 
-upperCaseCustomerName();
+//upperCaseCustomerName();
 
 console.log(customerName);
 
