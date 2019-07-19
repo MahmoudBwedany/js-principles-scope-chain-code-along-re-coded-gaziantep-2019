@@ -25,7 +25,7 @@ console.log(customerName);
 
 
 function overWriteBestCustomer() {
-  bestCustomer = ""
+  bestCustomer = "maybe bob"
 
 }
 
