@@ -22,18 +22,14 @@ function setBestCustomer() {
 console.log(customerName);
 
 
-/*
-function setBestCustomer() {
-  bestCustomer = "not nob";
-  
 
-}
 
 function overWriteBestCustomer() {
   bestCustomer = "Something else"
 
 }
 
+/*
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = "Something else entirely"
   
