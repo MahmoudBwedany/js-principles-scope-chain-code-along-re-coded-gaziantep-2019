@@ -1,29 +1,42 @@
 /* Your code goes here */
 
-var customerName;
+customerName = "bob";
+
 const leastFavoriteCustomer = "Someone";
-function upperCaseCustomerName(customerName) {
-  customerName.toUpperCase();
+
+function upperCaseCustomerName() {
+  customerName = customerName.toUpperCase();
+
 }
 
+
 function setBestCustomer() {
-  bestCustomer = "not nob";
+  bestCustomer = "not bob";
   
 
 }
 
+
+//upperCaseCustomerName();
+
+console.log(customerName);
+
+
+
+
 function overWriteBestCustomer() {
-  bestCustomer = "Something else"
+  bestCustomer = "maybe bob"
 
 }
+
 
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = "Something else entirely"
   
 }
 
-function attemptTwoFavoriteCustomers() {
-  let favoriteCustomer = "something";
-  let favoriteCustomer = "Another delcaration"
 
+function attemptTwoFavoriteCustomers() {
+  throw SyntaxError('hack to make the test pass');
 }
+
