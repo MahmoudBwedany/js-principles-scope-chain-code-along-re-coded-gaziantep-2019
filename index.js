@@ -38,6 +38,6 @@ function changeLeastFavoriteCustomer() {
 
 function attemptTwoFavoriteCustomers () {
   let something;
-  let something;
+  
 }
 
