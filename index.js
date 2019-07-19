@@ -9,6 +9,14 @@ function upperCaseCustomerName() {
 
 }
 
+
+function setBestCustomer() {
+  bestCustomer = "not nob";
+  
+
+}
+
+
 //upperCaseCustomerName();
 
 console.log(customerName);
